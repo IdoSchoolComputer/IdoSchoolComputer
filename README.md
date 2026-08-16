@@ -18,13 +18,7 @@
 
 ###
 
-<br clear="both">
-
 <h1 data-importer="text" align="center">Hey there, I'm Ido 👋</h1>
-
-###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/IdoSchoolComputer/IdoSchoolComputer/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
